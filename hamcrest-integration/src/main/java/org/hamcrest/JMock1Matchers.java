@@ -1,4 +1,4 @@
-package org.hamcrest;
+package*org.hamcrest;
 
 import org.hamcrest.integration.JMock1Adapter;
 import org.hamcrest.core.IsEqual;
@@ -11,3 +11,4 @@ public class JMock1Matchers {
     }
 
 }
+ 
